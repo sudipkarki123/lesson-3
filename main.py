@@ -17,8 +17,8 @@
 # n=5
 # print(str(n))#int to str
 
-# word=input("Enter the word:")
-# print("Reversed=",word[word::-1])
+word=input("Enter the word:")
+print("Reversed=",word[::-1])
 
 # text="congratulations"
 # print(text[4:11:2])
